@@ -1,10 +1,10 @@
-#Pathfinding Visualizer
+# Pathfinding Visualizer
 
-##Overview
+## Overview
 
 The Pathfinding Visualizer is an interactive web application that demonstrates how pathfinding algorithms work. It allows users to visualize algorithms like Breadth-First Search (BFS) as they explore a grid to find the shortest path between a start and an end point, while avoiding obstacles.
 
-##Features
+## Features
 
 Visualize pathfinding algorithms step by step.
 Set a Start Node, End Node, and add Obstacles on the grid.
@@ -12,13 +12,13 @@ Supports:
 Breadth-First Search (BFS)
 Reset the grid to start fresh.
 
-##Technologies Used
+## Technologies Used
 
 HTML: For structuring the application.
 CSS: For styling and layout.
 JavaScript: For implementing the logic and interactivity.
 
-##How to Run the Project
+## How to Run the Project
 
 1. Clone the Repository
 bash
@@ -40,7 +40,7 @@ Click "Visualize BFS" to watch the algorithm in action.
 
 Use "Reset Grid" to clear the grid and start again.
 
-##How It Works
+## How It Works
 
 Breadth-First Search (BFS)
 
@@ -48,7 +48,7 @@ Unweighted: Finds the shortest path by exploring all neighbors of a node before 
 
 Works well for grids with uniform movement costs.
 
-##Project Structure
+## Project Structure
 
 bash
 Copy code
@@ -64,7 +64,7 @@ PathfindingVisualizer/
 
 └── README.md                                # Project documentation
 
-##Possible Extensions
+## Possible Extensions
 
 Add more algorithms like Dijkstra's Algorithm, A*, or Depth-First Search (DFS). 
 
@@ -75,7 +75,7 @@ Add animations for smoother visualization.
 Make the grid size customizable.
 
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you’d like to contribute:
 
