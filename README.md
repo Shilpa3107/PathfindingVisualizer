@@ -44,11 +44,16 @@ Works well for grids with uniform movement costs.
 bash
 Copy code
 PathfindingVisualizer/
+
 │
-├── index.html      # HTML structure
-├── style.css       # Styling for the UI
-├── script.js       # Core logic for pathfinding and interactivity
-└── README.md       # Project documentation
+
+├── index.html                               # HTML structure
+
+├── style.css                                # Styling for the UI
+
+├── script.js                                # Core logic for pathfinding and interactivity
+
+└── README.md                                # Project documentation
 
 **Possible Extensions**
 
