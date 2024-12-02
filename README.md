@@ -74,7 +74,7 @@ Add animations for smoother visualization.
 
 Make the grid size customizable.
 
-Contributing
+**Contributing**
 
 Contributions are welcome! If you’d like to contribute:
 
@@ -87,3 +87,4 @@ Commit your changes (git commit -m "Add feature-name").
 Push to the branch (git push origin feature-name).
 
 Open a pull request.
+
