@@ -24,19 +24,28 @@ JavaScript: For implementing the logic and interactivity.
 bash
 Copy code
 git clone https://github.com/your-username/PathfindingVisualizer.git
-2. Open the Project
+
+3. Open the Project
 Navigate to the project folder and open index.html in your browser.
-3. Use the Application
+
+5. Use the Application
+
 Set the Start Node (green) by clicking on any cell.
+
 Set the End Node (red) by clicking on another cell.
+
 Add Obstacles (black cells) by clicking on additional cells.
+
 Click "Visualize BFS" to watch the algorithm in action.
+
 Use "Reset Grid" to clear the grid and start again.
 
 **How It Works**
 
 Breadth-First Search (BFS)
+
 Unweighted: Finds the shortest path by exploring all neighbors of a node before moving further.
+
 Works well for grids with uniform movement costs.
 
 **Project Structure**
@@ -57,15 +66,24 @@ PathfindingVisualizer/
 
 **Possible Extensions**
 
-Add more algorithms like Dijkstra's Algorithm, A*, or Depth-First Search (DFS).
+Add more algorithms like Dijkstra's Algorithm, A*, or Depth-First Search (DFS). 
+
 Include weighted grids with costs for traversal.
+
 Add animations for smoother visualization.
+
 Make the grid size customizable.
+
 Contributing
+
 Contributions are welcome! If you’d like to contribute:
 
 Fork the repository.
+
 Create a feature branch (git checkout -b feature-name).
+
 Commit your changes (git commit -m "Add feature-name").
+
 Push to the branch (git push origin feature-name).
+
 Open a pull request.
